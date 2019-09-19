@@ -35,7 +35,7 @@
 						<a href="https://www.imdb.com/title/tt4730014/?ref_=ttep_ep6" target="_blank"><li>Episode 6: eps1.5_br4ve-trave1er.asf&emsp;&emsp;9.2</li></a>
 						<a href="https://www.imdb.com/title/tt4730018/?ref_=ttep_ep7" target="_blank"><li>Episode 7: eps1.6_v1ew-s0urce.flv&emsp;&emsp;8,8</li></a>
 						<a href="https://www.imdb.com/title/tt4730026/?ref_=ttep_ep8" target="_blank"><li>Episode 8: eps1.7_wh1ter0se.m4v&emsp;9.5</li></a>
-						<a href="https://www.imdb.com/title/tt4799588/?ref_=ttep_ep9" target="_blank"<li>Episode 9: eps1.8_m1rr0r1ng.qt&emsp;&emsp;9.3</li></a>
+						<a href="https://www.imdb.com/title/tt4799588/?ref_=ttep_ep9" target="_blank"><li>Episode 9: eps1.8_m1rr0r1ng.qt&emsp;&emsp;9.3</li></a>
 						<a href="https://www.imdb.com/title/tt4652854/?ref_=ttep_ep10" target="_blank"><li>Episode 10: eps1.9_zer0-day.avi&emsp;&emsp;8.9</li></a>
 					</ul>
 				</div>
